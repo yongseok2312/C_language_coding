@@ -1,0 +1,7 @@
+﻿  1_변수만들고값저장.cpp
+  2._여러개.cpp
+  3_변수선연.cpp
+  코드를 생성하고 있습니다...
+2._여러개.obj : error LNK2005: main이(가) 1_변수만들고값저장.obj에 이미 정의되어 있습니다.
+3_변수선연.obj : error LNK2005: main이(가) 1_변수만들고값저장.obj에 이미 정의되어 있습니다.
+C:\Sources\C_language_coding\5변수만들기\x64\Debug\5변수만들기.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|solutionrelative:7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|solutionrelative:7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962A356F-4B1D-4C67-A745-10C5354FC2B1}|7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.vcxproj|solutionrelative:7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2_underflow.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp",
+              "RelativeDocumentMoniker": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp",
+              "RelativeToolTip": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_underflow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T12:51:49.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2_2.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp",
+              "RelativeDocumentMoniker": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp",
+              "RelativeToolTip": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\2_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T11:28:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp",
+              "RelativeDocumentMoniker": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp",
+              "RelativeToolTip": "7\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8\\1_\uC815\uC218\uD615\uBCC0\uC218\uC120\uC5B8.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T08:58:58.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|solutionrelative:5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|solutionrelative:5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D49C84-195D-403E-AD1A-3F9BFE28A82D}|5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30.vcxproj|solutionrelative:5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3_\uBCC0\uC218\uC120\uC5F0.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp",
+              "RelativeDocumentMoniker": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp",
+              "RelativeToolTip": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\3_\uBCC0\uC218\uC120\uC5F0.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T06:12:03.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2._\uC5EC\uB7EC\uAC1C.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp",
+              "RelativeDocumentMoniker": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp",
+              "RelativeToolTip": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\2._\uC5EC\uB7EC\uAC1C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T05:51:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp",
+              "DocumentMoniker": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp",
+              "RelativeDocumentMoniker": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp",
+              "ToolTip": "C:\\Sources\\C_language_coding\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp",
+              "RelativeToolTip": "5\uBCC0\uC218\uB9CC\uB4E4\uAE30\\1_\uBCC0\uC218\uB9CC\uB4E4\uACE0\uAC12\uC800\uC7A5.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-03T05:46:47.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
