@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|solutionrelative:8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|solutionrelative:8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|solutionrelative:8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|solutionrelative:8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F83A85-1CCF-498C-9ACF-28CE29894F1B}|8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615.vcxproj|solutionrelative:8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.real_number_oberflow_underflow.cpp",
+              "DocumentMoniker": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp",
+              "RelativeDocumentMoniker": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp",
+              "ToolTip": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp",
+              "RelativeToolTip": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\4.real_number_oberflow_underflow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T02:27:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.real_number_min_max.cpp",
+              "DocumentMoniker": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp",
+              "RelativeDocumentMoniker": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp",
+              "ToolTip": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp",
+              "RelativeToolTip": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\3.real_number_min_max.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T00:48:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.real_number_sizeof.cpp",
+              "DocumentMoniker": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp",
+              "RelativeDocumentMoniker": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp",
+              "ToolTip": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp",
+              "RelativeToolTip": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\2.real_number_sizeof.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T00:46:03.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.1.real_number_exponential_notation.cpp",
+              "DocumentMoniker": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp",
+              "RelativeDocumentMoniker": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp",
+              "ToolTip": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp",
+              "RelativeToolTip": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.1.real_number_exponential_notation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T00:39:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.real_number.cpp",
+              "DocumentMoniker": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp",
+              "RelativeDocumentMoniker": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp",
+              "ToolTip": "C:\\sources\\C_language_coding\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp",
+              "RelativeToolTip": "8.\uC2E4\uC218 \uC790\uB8CC\uD615\\1.real_number.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T00:36:48.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
